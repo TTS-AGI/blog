@@ -1,0 +1,14 @@
+title: TTS Arena Blog
+theme: minima
+
+# Optional: Show links in header
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/TTS-AGI" }
+
+  # Use navigation_links for header navigation
+  navigation_links:
+    - title: "Home"
+      url: /
+    - title: "TTS Arena"
+      url: "https://ttsarena.org"
